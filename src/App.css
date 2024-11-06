@@ -1,0 +1,51 @@
+body {
+	background: rgb(174, 238, 230);
+	height: 100vh;
+	background: radial-gradient(circle, #243b55 0%, #141e30 100%);
+	background: -webkit-radial-gradient(circle, #243b55 0%, #141e30 100%);
+}
+.title {
+	/* font-size: 4.5rem; */
+	font-family: "Oswald", sans-serif;
+	color: #fff;
+}
+.logo {
+	margin: 2rem;
+}
+.input {
+	border: 1px solid #888;
+}
+.add {
+	transition: 0.5s;
+	cursor: pointer;
+}
+.add:hover {
+	transform: rotate(90deg);
+}
+ul li {
+	overflow-wrap: break-word;
+	user-select: none;
+	cursor: pointer;
+	list-style: "➤ ";
+	list-style-position: outside;
+	transition: 0.5s all ease;
+	color: #fff;
+	font-family: "Oswald", sans-serif;
+	transition: all 0.5s;
+	animation: show 0.5s ease;
+}
+@keyframes show {
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+}
+.done {
+	text-decoration: line-through;
+	color: #a1a1a1;
+}
+.delete {
+	cursor: pointer;
+}
