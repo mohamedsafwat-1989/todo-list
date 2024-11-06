@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/mohamedsafwat-1989/todo-list/static/css/main.c9c86dec.css",
+    "main.js": "/mohamedsafwat-1989/todo-list/static/js/main.e15b807e.js",
+    "static/js/453.81f383cb.chunk.js": "/mohamedsafwat-1989/todo-list/static/js/453.81f383cb.chunk.js",
+    "static/media/add.png": "/mohamedsafwat-1989/todo-list/static/media/add.905a877302d4b283c5e0.png",
+    "static/media/to-do-list.png": "/mohamedsafwat-1989/todo-list/static/media/to-do-list.106a1f305e30238d1e85.png",
+    "index.html": "/mohamedsafwat-1989/todo-list/index.html",
+    "main.c9c86dec.css.map": "/mohamedsafwat-1989/todo-list/static/css/main.c9c86dec.css.map",
+    "main.e15b807e.js.map": "/mohamedsafwat-1989/todo-list/static/js/main.e15b807e.js.map",
+    "453.81f383cb.chunk.js.map": "/mohamedsafwat-1989/todo-list/static/js/453.81f383cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9c86dec.css",
+    "static/js/main.e15b807e.js"
+  ]
+}
